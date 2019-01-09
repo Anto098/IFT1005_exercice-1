@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?xml-model href="relax.rnc" type="application/relax-ng-compact-syntax"?>
-<article>as</article>
 
+<article magazine="DIRO" type="business" annee="2019>
+    <titre couleur="noire">Inserer titre ici</titre>
+</article>
